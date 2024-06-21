@@ -1,6 +1,6 @@
 # Nightcore-Radio
 ---
-A simple Discord bot uses python to play musk in a voice channel 24/7 together
+A simple Discord bot uses python to play musk in a voice channel 24/7 together on Replit
 
 ## Installation on local computer
 1. Install ffmpeg if you don't already have it installed and make sure it is installed in your computer environment
